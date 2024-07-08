@@ -1,9 +1,0 @@
-{
-    "functions": [
-      {
-        "name": "Greet",
-        "type": "http"
-      }
-    ]
-  }
-  
